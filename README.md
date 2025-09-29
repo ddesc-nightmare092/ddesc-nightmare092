@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ddesc-nightmare092
+- 👋 Hi, I’m Dan Deschenes
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on automated robotic systems data analysis 
